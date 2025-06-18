@@ -99,6 +99,9 @@ dl dd {
     color: hsl(224, 71%, 4%);
     box-shadow: 1px 1px 5px hsla(220, 65%, 95%, 0.8);
   }
+  code {
+    background-color: hsl(224, 71%, 10%);
+  }
 
   button:hover {
     background-color: hsl(224, 65%, 70%);
